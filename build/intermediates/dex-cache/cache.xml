@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ashishkapoor/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ashishkapoor/Desktop/AllTheRecipes-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_e77a49c3541379dc71bcead13d688bbcea19b7cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashishkapoor/Desktop/AllTheRecipes-Starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/ashishkapoor/Desktop/AllTheRecipes-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_9e4942f3e73e6096d497a542ce5450bb87647996/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashishkapoor/Desktop/AllTheRecipes-Starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3405f165a3d29a2a9074156caa3a23b0386dd7c4">
+        <dex dex="/Users/ashishkapoor/Desktop/AllTheRecipes-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_82c4f2f8481d7c41c074c2ba5d3bbf269ba5cf4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashishkapoor/Desktop/AllTheRecipes-Starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="80a67de3a7f1ed6d37af2e23350567424ab4ab6f">
+        <dex dex="/Users/ashishkapoor/Desktop/AllTheRecipes-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e98197d6a3d717dc31c89d0f85678209b7519d79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashishkapoor/Developer/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/ashishkapoor/Desktop/AllTheRecipes-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_3f21d70cdd336dbc57a8c8a7e49b6663a76b15ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashishkapoor/Desktop/AllTheRecipes-Starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/ashishkapoor/Desktop/AllTheRecipes-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_cb3550408a8c8b38dfaa45159c3b794281f68710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashishkapoor/Desktop/AllTheRecipes-Starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/ashishkapoor/Desktop/AllTheRecipes-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_1a58b656c652fdee1e7a702aa7da36912f35eda2/classes.dex" />
+    </item>
+
+</items>
